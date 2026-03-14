@@ -1,0 +1,8 @@
+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
+
+
+git remote add origin https://USERNAME:TOKEN@github.com/USERNAME/repo.git
+
+
+
+git remote add origin https://indiantechkeys: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@github.com/indiantechkeys/IoTMonitoringPannle.git
